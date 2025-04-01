@@ -1,1 +1,1 @@
-:set noet ts=6 sts=6 sw=6
+:set noet ts=8 sts=8 sw=8
