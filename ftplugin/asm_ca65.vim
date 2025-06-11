@@ -16,4 +16,4 @@ set wildignore+=*.o
 let &cpo = s:keepcpo
 unlet s:keepcpo
 
-:set et sw=3 ts=3 sts=3 nosmartindent
+:set et sw=8 ts=8 sts=8 nosmartindent
